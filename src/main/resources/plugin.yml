@@ -1,0 +1,4 @@
+name: Cameras
+version: '${project.version}'
+main: nl.juriantech.cameras.Main
+api-version: 1.13
